@@ -22,5 +22,7 @@ Output
 
 Output
 
- file:///home/palgun/Pictures/Screenshot%20from%202022-11-21%2017-34-32.png
+ ![file:///home/palgun/Pictures/Screenshot%20from%202022-11-21%2017-34-32.png](Images/Screenshot%20from%202022-11-21%2017-34-32.png)
+
+
 
