@@ -29,5 +29,5 @@ Output
 - The parallel approach takes 8.574160s.
 - Hence we can see that the serial takes almost 2.7 times longer.
 
-** Thus we can conclude that by taking a multi-threaded approah helps in faster computation **
+**Thus we can conclude that by taking a multi-threaded approah helps in faster computation**
 
