@@ -2,7 +2,7 @@
 This assignment consists of two easy level questions adopted from the 10th edition of Opersting System Concepts.
 
 Q1. (3.21)
-The Collatz conjecture concerns what happens when we take any posi- tive integer n and apply the following algorithm:
+The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
 
 <img width="246" alt="Q" src="https://user-images.githubusercontent.com/79468881/202985769-c9c55359-a84d-41de-af9a-59eff1e9682c.png">
 
