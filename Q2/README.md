@@ -24,5 +24,10 @@ Output
 
  ![file:///home/palgun/Pictures/Screenshot%20from%202022-11-21%2017-34-32.png](Images/Screenshot%20from%202022-11-21%2017-34-32.png)
 
+## Conclusions
+- The serial approach takes 23.194199s.
+- The parallel approach takes 8.574160s.
+- Hence we can see that the serial takes almost 2.7 times longer.
 
+** Thus we can conclude that by taking a multi-threaded approah helps in faster computation **
 
