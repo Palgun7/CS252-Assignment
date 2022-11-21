@@ -2,7 +2,7 @@
 This assignment consists of two easy level questions adopted from the 10th edition of Opersting System Concepts.
 
 
-Q1. (4.24)
+Q2. (4.24)
 
 An interesting way of calculating π is to use a technique known as Monte Carlo, which involves randomization. This technique works as follows: Suppose you have a circle inscribed within a square, as shown in Figure 4.25. (Assume that the radius of this circle is 1.)
 
