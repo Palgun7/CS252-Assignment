@@ -31,3 +31,7 @@ Output
 
 **Thus we can conclude that by taking a multi-threaded approah helps in faster computation**
 
+## References
+- [https://github.com/SeanStaz/monteCarloMethod.c/blob/master/A3.c](https://github.com/SeanStaz/monteCarloMethod.c/blob/master/A3.c)
+- [https://github.com/ilias1111/parallel-monte-carlo-pi](https://github.com/ilias1111/parallel-monte-carlo-pi)
+
