@@ -12,4 +12,5 @@
 - gcc single.c -o serial.o
 - ./serial.o
 
-/assets/images/Screenshot from 2022-11-21 17-33-23.png
+![Screenshot from 2022-11-21 17-33-23](https://user-images.githubusercontent.com/79468881/202982289-a1a2a02e-cba1-4cac-82f3-4f47b7906c30.png)
+
