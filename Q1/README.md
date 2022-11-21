@@ -15,4 +15,11 @@ Output
 
 ![Screenshot from 2022-11-21 18-08-13](https://user-images.githubusercontent.com/79468881/202988052-e6e08438-8b28-4ec7-96d4-4eba69d34593.png)
 
+## Inferences
+- Therefore it can be observed that both parent and child create different copies of data.
+- When the parent calls the fork() operation it waits till child completes execution.
+- Only then the parent resumes, in this case proceeds to terminate.
 
+## References
+- [https://github.com/SeanStaz/theCollatzConjecture.c/blob/master/hailstone.c](https://github.com/SeanStaz/theCollatzConjecture.c/blob/master/hailstone.c)
+- [https://github.com/Samith-hegde/CollatzConjecture](https://github.com/Samith-hegde/CollatzConjecture)
