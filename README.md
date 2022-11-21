@@ -1,7 +1,7 @@
 # CS252-Assignment
 This assignment consists of two easy level questions adopted from the 10th edition of Opersting System Concepts.
 
-Q1. (3.21)
+[Q1. (3.21)](https://github.com/Palgun7/CS252-Assignment/tree/main/Q1)
 
 The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
 
